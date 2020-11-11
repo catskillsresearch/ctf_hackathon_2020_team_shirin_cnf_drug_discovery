@@ -1,0 +1,2 @@
+docker tag ctf_hackathon_2020_team_shirin_cnf_drug_discovery:001 catskillsresearch/ctf_hackathon_2020_team_shirin_cnf_drug_discovery:001
+docker push catskillsresearch/ctf_hackathon_2020_team_shirin_cnf_drug_discovery:001
